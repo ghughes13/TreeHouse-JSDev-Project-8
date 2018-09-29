@@ -21,3 +21,7 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+.DS_Store
+.sass-cache
+/node_modules
+.node_modules
